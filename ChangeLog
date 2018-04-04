@@ -37,7 +37,7 @@ NOTE: Database schema and settings format change, no downgrade possible!
 * Support for many IRCv3 features, improved capability negotiation
 * Many smaller fixes and improvements
 
-Version 0.12.5 (TBR)
+Version 0.12.5 (WIP)
 ====================
 
 * Better HIDPI support with recent Qt 5 versions
